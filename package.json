@@ -3,6 +3,8 @@
 	"displayName": "Nordvpn",
 	"description": "Control NordVPN with VS Code",
 	"version": "0.0.1",
+	"publisher": "AbolfazlAlizadeh",
+	"icon": "assets/128x128.ico",
 	"engines": {
 		"vscode": "^1.50.0"
 	},
